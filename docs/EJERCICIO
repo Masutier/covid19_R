@@ -1,0 +1,23 @@
+EJERCICIO
+
+El jefe del proyecto quiere lo siguiente:
+
+1. Después de categorizar la edad en:
+“niño, joven, adulto y adulto mayor”,
+debe cambiar la categoría de los niños
+que tienen el sexo femenino por “niña”.
+
+2. Separe el código DIVIPOLA en
+código del departamento y el código del
+municipio en las columnas “IDDPTO” y
+“IDMUNICIPIO” respectivamente.
+
+3. Remplace el código de los países de la dimensión (IDPAIS), por
+el código internacional y el código ISO3, por ejemplo: 170 - COL,
+después sincronice la tabla de hecho con los cambios
+realizados en la dimensión. Ver aquí los códigos
+internacionales.
+
+4. Colocar que día de la semana se hizo el registro de acuerdo a la
+fecha del reporte del caso.
+
